@@ -1,0 +1,35 @@
+c:\users\user\source\repos\N2\N2\bin\N2.dll.config
+c:\users\user\source\repos\N2\N2\bin\N2.dll
+c:\users\user\source\repos\N2\N2\bin\N2.pdb
+c:\users\user\source\repos\N2\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\source\repos\N2\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\source\repos\N2\N2\obj\Release\N2.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\N2\N2\obj\Release\N2.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\N2\N2\obj\Release\N2.dll
+c:\users\user\source\repos\N2\N2\obj\Release\N2.pdb
+C:\Users\User\source\repos\N2 - Copy\N2\bin\N2.dll.config
+C:\Users\User\source\repos\N2 - Copy\N2\bin\N2.dll
+C:\Users\User\source\repos\N2 - Copy\N2\bin\N2.pdb
+C:\Users\User\source\repos\N2 - Copy\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\N2 - Copy\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\N2 - Copy\N2\obj\Release\N2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\N2 - Copy\N2\obj\Release\N2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\N2 - Copy\N2\obj\Release\N2.dll
+C:\Users\User\source\repos\N2 - Copy\N2\obj\Release\N2.pdb
+C:\Users\User\source\repos\N2Copy\N2\bin\N2.dll.config
+C:\Users\User\source\repos\N2Copy\N2\bin\N2.dll
+C:\Users\User\source\repos\N2Copy\N2\bin\N2.pdb
+C:\Users\User\source\repos\N2Copy\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\N2Copy\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\N2Copy\N2\obj\Release\N2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\N2Copy\N2\obj\Release\N2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\N2Copy\N2\obj\Release\N2.dll
+C:\Users\User\source\repos\N2Copy\N2\obj\Release\N2.pdb
+C:\Users\User\source\repos\N3\N2\bin\N2.dll.config
+C:\Users\User\source\repos\N3\N2\bin\N2.dll
+C:\Users\User\source\repos\N3\N2\bin\N2.pdb
+C:\Users\User\source\repos\N3\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\source\repos\N3\N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\source\repos\N3\N2\obj\Release\N2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\N3\N2\obj\Release\N2.dll
+C:\Users\User\source\repos\N3\N2\obj\Release\N2.pdb
